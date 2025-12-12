@@ -1,4 +1,4 @@
-# 🛒 Zepto Data Analysis (PostgreSQL + pgAdmin)
+# 🛒 Zepto Data Analysis 
 
 This project contains a complete analysis of a Zepto-style grocery dataset using **PostgreSQL** and **pgAdmin**.  
 It demonstrates SQL skills used in Data Analyst, Product Analyst, and Business Analyst roles.
